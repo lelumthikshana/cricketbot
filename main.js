@@ -123,6 +123,11 @@ client.on('message_create', async (msg) => {
         } else if (msg.body == "!ping") { // Ping command
 
             msg.reply("Pong !!!");
+            
+        } else if (msg.body == "!grp") { // whatsapp cricket group
+            
+            msg.delete(true)
+            msg.reply("ℂℝ𝕀ℂ ℤ𝕆ℕ𝔼 official whatsapp cricket group\n\nhttps://chat.whatsapp.com/EgyhgB8WcWl7t08ZQyvgbk\n\nshare with your friends")
 
         } else if (msg.body == "!start") { // Start command
             msg.delete(true)
