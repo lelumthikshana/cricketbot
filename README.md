@@ -10,11 +10,11 @@ ALL CREDITS goes to tuhin pal who was made whatsapp user bot base version. ❤
 
 <p align="center">
 <a href="https://github.com/TheWhatsBot/WhatsBot/releases">
-    <img src="https://shields.io/badge/WHATSBOT-Version--1.5.0-red?logo=whatsapp&style=for-the-badge"
+    <img src="https://shields.io/badge/RangeR bot-Version--2.0.0-red?logo=whatsapp&style=for-the-badge"
          alt="Version"></a><br>
-   <a href="https://github.com/TheWhatsBot/WhatsBot/wiki">
- <img src="https://shields.io/badge/WIKI-red?style=for-the-badge"alt="Wiki"></a>
-  <a href="https://github.com/TheWhatsBot/WhatsBot/wiki/Demo">
+   <a href="https://github.com/lelumthikshana">
+ <img src="https://shields.io/badge/ME-red?style=for-the-badge"alt="Wiki"></a>
+  <a href="https://github.com/lelumthikshana">
  <img src="https://shields.io/badge/DEMO-red?style=for-the-badge"alt="Demo"></a>
     <a href="#deploy-">
 <img src="https://shields.io/badge/DEPLOY-red?style=for-the-badge"alt="Deploy"></a>
@@ -24,7 +24,7 @@ ALL CREDITS goes to tuhin pal who was made whatsapp user bot base version. ❤
  <img src="https://shields.io/badge/Inspiration-red?style=for-the-badge"alt="Inspiration"></a>
    <a href="#develop-">
  <img src="https://shields.io/badge/Develop-red?style=for-the-badge"alt="Develop"></a><br>
-    <a href="https://github.com/cachecleanerjeet">
+    <a href="https://github.com/lelumthikshana">
 <img src="https://shields.io/badge/MADE WITH ♥ BY-LELUM-red?style=for-the-badge"alt="Deploy"></a>
 </p>
 
