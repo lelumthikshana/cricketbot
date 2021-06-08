@@ -66,7 +66,7 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/lelumthikshana/Ranger-bot "Deploy with Heroku")<br>
 other deployment setup will be issued soon. stay tuned
 
 read the [manual](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) from BASE VERSION (WAHTSBOT). Do what it say!
