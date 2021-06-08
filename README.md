@@ -6,7 +6,7 @@
 
 
 
-
+ALL CREDITS goes to tuhin pal who was made whatsapp user bot base version. ❤
 <p align="center">
 <a href="https://github.com/TheWhatsBot/WhatsBot/releases">
     <img src="https://shields.io/badge/WHATSBOT-Version--1.5.0-red?logo=whatsapp&style=for-the-badge"
