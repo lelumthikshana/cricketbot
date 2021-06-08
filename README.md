@@ -45,6 +45,7 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 - Terminal Included
 - Encrypted Traffic
 - Cricket score
+- cricket groups (whatsapp)
 
 ### Pre Added Plugins :
 
@@ -61,6 +62,7 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 - **ud** - Urban Dictionary
 - **sticker** - Make sticker from Image
 - **cricket** - gives you cricket update in intervals as you set
+- **links** - gives you cricket groups links in whatsapp
 
 ### Deploy :
 
