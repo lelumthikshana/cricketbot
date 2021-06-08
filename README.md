@@ -68,7 +68,9 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 
 [![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
 other deployment setup will be issued soon. stay tuned
-Deploy in VPS : soon
+
+read the [manual](https://github.com/lelumthikshana/Ranger-bot-wiki).Do what is say!
+
 
 ### Commands :
 
