@@ -24,7 +24,7 @@
    <a href="#develop-">
  <img src="https://shields.io/badge/Develop-red?style=for-the-badge"alt="Develop"></a><br>
     <a href="https://github.com/cachecleanerjeet">
-<img src="https://shields.io/badge/MADE WITH ♥ BY-TUHIN-red?style=for-the-badge"alt="Deploy"></a>
+<img src="https://shields.io/badge/MADE WITH ♥ BY-LELUM-red?style=for-the-badge"alt="Deploy"></a>
 </p>
 
 <br>
