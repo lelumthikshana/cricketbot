@@ -6,10 +6,10 @@ async function cricket(url) {
         if (scoredata.success) {
             return {
                 status: true,
-                msg: `~RangeR update~\n\n🏏 *${scoredata.livescore.title}*\n\n_UPDATE_ | ${scoredata.livescore.update}\n\n_*Total score*_: ${scoredata.livescore.current}\n\n\n\n*BATMANS DETAILS*\n\nBatman: ${scoredata.livescore.batsman} - ${scoredata.livescore.batsmanrun}\nFours: ${scoredata.livescore.fours}\nSixes: ${scoredata.livescore.sixes}\n\nPartnership: ${scoredata.livescore.partnership}\nRecent balls: ${scoredata.livescore.recentballs}\n\nLast Wicket: ${scoredata.livescore.lastwicket}\n\nRun rate: ${scoredata.livescore.runrate}\n\n\n\n*BOWLER DETAILS*\n\nBowler: ${scoredata.livescore.bowler}\nOvers: ${scoredata.livescore.bowlerover}\nRuns: ${scoredata.livescore.bowlerruns}\nWickets: ${scoredata.livescore.bowlerwickets}\n\n\n🏏 𝐂𝐫𝐢𝐜 𝐓𝐚𝐥𝐤𝐬 🎤
+                msg: `~𝕽𝖆𝖓𝖌𝖊𝕽~\n\n🏏 *${scoredata.livescore.title}*\n\n| ${scoredata.livescore.update} |\n\n_*ŦØŦȺŁ*_: ${scoredata.livescore.current}\n\n\n\n*BÀTMÀN DÈTÀÌLS (strickers end)*\n\n✯𝙱𝙰𝚃𝚂𝙼𝙰𝙽 : ${scoredata.livescore.batsman} - ${scoredata.livescore.batsmanrun}\n  -𝙵𝚘𝚞𝚛𝚜: ${scoredata.livescore.fours}\n  -𝚂𝚒𝚡𝚎𝚜: ${scoredata.livescore.sixes}\n\n✯𝙿𝙰𝚁𝚃𝙽𝙴𝚁𝚂𝙷𝙸𝙿 : ${scoredata.livescore.partnership}\n✯𝚁𝙴𝙲𝙴𝙽𝚃 𝙱𝙰𝙻𝙻𝚂 : ${scoredata.livescore.recentballs}\n\n✯𝙻𝙰𝚂𝚃 𝚆𝙸𝙲𝙺𝙴𝚃 : ${scoredata.livescore.lastwicket}\n\n✯𝚁𝚄𝙽 𝚁𝙰𝚃𝙴 : ${scoredata.livescore.runrate}\n\n\n\n*BÓWLÈR DÈTÀÌLS*\n\n✯𝙱𝙾𝚆𝙻𝙴𝚁: ${scoredata.livescore.bowler}\n  -𝙾𝚟𝚎𝚛𝚜 : ${scoredata.livescore.bowlerover}\n  -𝚁𝚞𝚗𝚜 𝚐𝚒𝚟𝚎: ${scoredata.livescore.bowlerruns}\n  -𝚆𝚒𝚌𝚔𝚎𝚝𝚜 : ${scoredata.livescore.bowlerwickets}
                     
                     
-                `,
+               ☢ℂℝ𝕀ℂ ℤ𝕆ℕ𝔼☢ `,
             }
         } else {
             throw ''
