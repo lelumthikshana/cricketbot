@@ -3,7 +3,7 @@
 
 
 
-<img src="https://telegra.ph/file/96ccad5945c18944c5f15.png">
+<img src="https://telegra.ph/file/aa55b5bb5e0ed2bf04654.jpg">
 
 
 ALL CREDITS goes to tuhin pal who was made whatsapp user bot base version. ❤
