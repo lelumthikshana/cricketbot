@@ -44,7 +44,7 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 - Directory Listing in Web Server
 - Terminal Included
 - Encrypted Traffic
-- Cricket score update by Lelum
+- Cricket score
 
 ### Pre Added Plugins :
 
@@ -65,16 +65,16 @@ I'm the one who make cricket moduler more effectively. But all credits goes to W
 ### Deploy :
 
 [![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
-Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
-[Deploy in VPS](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-in-VPS)
+other deployment setup will be issued soon. stay tuned
+Deploy in VPS : soon
 
 ### Commands :
 
-_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands "Command's Wiki")_
+_Send <code>!help</code> in Anywhere_
 
 ### Develop :
 
-_You can develop your own module for Whatsbot.or just fork it and make bot more powerful. Check out the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Development), It is very easy if you know Javascript._
+_You can develop your own module for Whatsbot.or just fork it and make bot more powerful.It is very easy if you know Javascript.If not easy develop setup will be launch soon.(After AL😅)_
 
 ### How it works :
 
@@ -83,7 +83,7 @@ _You can develop your own module for Whatsbot.or just fork it and make bot more 
 
 ### Inspiration :
 
-- [Userge](https://github.com/UsergeTeam/Userge "Userge") - This Project takes Pmpermit insprition from Userge
+- This whole project base on WHATSBOT!!
 
 ### Credits :
 
@@ -94,14 +94,16 @@ _You can develop your own module for Whatsbot.or just fork it and make bot more 
 - [savefrom.net](https://savefrom.net/ "savefrom[dot]net") - For Youtube Module
 - [Weather API](https://github.com/cachecleanerjeet/weather-api "Weather API") - For Weather Module
 - [Cribuzz API](https://github.com/mskian/cricket-api "Cribuzz API") - Thanks to [mskian](https://github.com/mskian) for his great Cribuzz API
-- [Lelum](https://github.com/lelumthikshana) - for make cricket module better.
+- And Tuhin who was made base version of RangeR bot(whatsbot)
+
 ### License & Copyright :
 
 - This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
-- Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
-- cricket module powered by [lelum thikshana](https://github.com/lelumthikshana)
+- Copyright 2021 by [RangeR bRo (lelum)](https://github.com/lelumthikshana)
+- All modules powered by [lelum thikshana](https://github.com/lelumthikshana)
 
-### support :
+### Fancy chat room (cricket) :
 
-- [Channel](https://telegram.dog/whatsbotnews)
-- [Support Group](https://telegram.dog/whatsbotsupport)
+- [𝙲𝚁𝙸𝙲 𝚉𝙾𝙽𝙴](https://chat.whatsapp.com/EgyhgB8WcWl7t08ZQyvgbk)
+
+A Unique support chat will open soon. No time for that now. sorry!
