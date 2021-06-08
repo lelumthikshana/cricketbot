@@ -10,7 +10,7 @@ async function get(battery, phn_info) {
     }
 
     return ({
-        msg: `*𝚁𝚊𝚗𝚐𝚎𝚁 𝚋𝚘𝚝* _(V 2.0.0)_\n\nThis chat is Powered By *𝚁𝚊𝚗𝚐𝚎𝚁 𝚋𝚘𝚝*\n\n*Battery:* ${batttxt}\n*Device:* ${phn_info.device_manufacturer} ${phn_info.device_model}\n*WA Version:* ${phn_info.wa_version}\n*Pmpermit:* ${config.pmpermit_enabled}\n*Mutetime:* ${config.pmpermit_mutetime/60} Minutes\n\n*Official Repository Url 👇*\n` + "```https://github.com/lelumthikshana/cricketoriginal```",
+        msg: `*𝚁𝚊𝚗𝚐𝚎𝚁 𝚋𝚘𝚝* _(V 2.0.0)_\n\nThis chat is Powered By *𝚁𝚊𝚗𝚐𝚎𝚁 𝚋𝚘𝚝*\n\n*Battery:* ${batttxt}\n*Device:* ${phn_info.device_manufacturer} ${phn_info.device_model}\n*WA Version:* ${phn_info.wa_version}\n*Pmpermit:* ${config.pmpermit_enabled}\n*Mutetime:* ${config.pmpermit_mutetime/60} Minutes\n\n*Official Repository Url 👇*\n` + "```https://github.com/lelumthikshana/Ranger-bot```",
         mimetype: "image/jpeg",
         data: Buffer.from(((await axios.get('https://telegra.ph/file/aa55b5bb5e0ed2bf04654.jpg', { responseType: 'arraybuffer' })).data)).toString('base64'),
         filename: "start.jpg"
